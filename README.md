@@ -8,7 +8,7 @@
 <a  href="https://www.instagram.com/dohyeon428/?igsh=MWtjM21nMmg1MDFlcw%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/dohyeon428/?igsh=MWtjM21nMmg1MDFlcw%3D%3D&utm_source=qr"/></a>
 <a href="https://www.facebook.com/profile.php?id=100012920281549&mibextid=JRoKGi"><img src="https://img.shields.io/badge/facebook-0866FF?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100012920281549&mibextid=JRoKGi"/></a>&nbsp
 <a href="https://www.youtube.com/@DohyeonChoi"><img src="https://img.shields.io/badge/youtube-FF0000?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/@DohyeonChoi"/></a>&nbsp
-<a href="https://github.com/Louisdohyeon"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white&link=https://github.com/Louisdohyeon"/></a>&nbsp
+<a href="https://github.com/BrightLuminate"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white&link=https://github.com/Louisdohyeon"/></a>&nbsp
 <a href="https://blog.naver.com/grace9352"><img src="https://img.shields.io/badge/naver-03C75A?style=flat&logo=naver&logoColor=white&link=https://blog.naver.com/grace9352" alt="Naver 블로그"></a>
 </p>
 <img align="riht" alt="Coding" width="250" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
