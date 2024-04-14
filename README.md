@@ -40,7 +40,7 @@ As developers who are constantly striving to make the world a better place, we d
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Languages" Width="250"
 >
-  <img align="Center" src="https://github-readme-stats.vercel.app/api?username=louisdohyeon&show_icons=true&theme=radical" alt="GitHub Stats" Width="300"/>
+  <img align="Center" src="https://github-readme-stats.vercel.app/api?username=BrightLuminate&show_icons=true&theme=radical" alt="GitHub Stats" Width="300"/>
   <br> <!-- Add a line break to move the next image below -->
 </div>
 
