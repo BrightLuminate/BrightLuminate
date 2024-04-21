@@ -26,7 +26,7 @@ As developers who are constantly striving to make the world a better place, we d
 
 ## Communication 
 
-- 📝 [https://louisdohyeon.github.io/](https://brightluminate.github.io/)and writes a regular blog at
+- 📝 [https://brightluminate.github.io/](https://brightluminate.github.io/)and writes a regular blog at
 
 - 💬 **Ask us about the Send us an email or contact us at Solidity.**
 
