@@ -28,9 +28,9 @@
 
 ## Communication 
 
-- 📝 [https://brightluminate.github.io/](https://brightluminate.github.io/)and writes a regular blog at
+- 📝 [https://brightluminate.github.io/](https://brightluminate.github.io/) 정기적으로 블로그를 작성하고 있습니다.
 
-- 💬 **Ask us about the Send us an email or contact us at Solidity.**
+- 💬**솔리디티에 대해 궁금한 점이 있으시면 이메일을 보내거나 문의하세요. 
 
 - 📫 How to contact me **grace71394@gmail.com**
 
