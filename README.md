@@ -16,13 +16,15 @@
 
 
 ## About Me 💬
-I love new challenges and am always striving to learn and grow in the ever-changing world of technology. I also value open communication and collaboration.
-As developers who are constantly striving to make the world a better place, we deliver user-centered solutions and utilize innovative technologies to explore new possibilities. As a passionate developer who wants to work together, I look forward to meeting you. We'd love to work together and share the opportunity to take on new challenges and grow. Let's do it together!
+저는 새로운 도전을 좋아하고 끊임없이 변화하는 기술 세계에서 배우고 성장하기 위해 항상 노력하고 있습니다. 또한 열린 소통과 협업을 중요하게 생각합니다.
+더 나은 세상을 만들기 위해 끊임없이 노력하는 개발자로서 사용자 중심의 솔루션을 제공하고 혁신적인 기술을 활용하여 새로운 가능성을 모색합니다. 함께 일하고 싶은 열정적인 개발자로서 여러분을 만나기를 고대합니다. 함께 일하며 새로운 도전에 도전하고 성장할 수 있는 기회를 함께 나누고 싶습니다. 함께 해봅시다!
 
 ## Skills 🚀
-- 💻 **Languages:**
-- 🛠️ **Technologies & Tools:** [Frameworks, Libraries, Tools]
-- 🎓 **Other Skills:** [Soft Skills, Certifications, etc.]
+- 💻 **Languages:** : Python, Java, Javascript,
+- 🛠️ **Front-End:** : HTML/CSS,Django,Rect-native
+- 🛝 **Back-End:** : JQuery,Node.js
+- 🎓 **Artificial Intelligence:** : Machine learning, Deep learning , Web frameworks, Data preprocessing,
+- 🎱 **Creative Media :** :  Adobe Premiere Pro, Adobe After Effects
 
 ## Communication 
 
