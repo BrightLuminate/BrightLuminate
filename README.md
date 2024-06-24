@@ -30,7 +30,7 @@
 
 - 📝 [https://brightluminate.github.io/](https://brightluminate.github.io/) 정기적으로 블로그를 작성하고 있습니다.
 
-- 💬**솔리디티에 대해 궁금한 점이 있으시면 이메일을 보내거나 문의하세요. 
+- 💬 포토폴리오 계시물 입니다. [https://portfolio-lemon-delta-86.vercel.app/](https://portfolio-lemon-delta-86.vercel.app/)
 
 - 📫 How to contact me **grace71394@gmail.com**
 
