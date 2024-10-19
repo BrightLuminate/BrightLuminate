@@ -11,7 +11,7 @@
 <a href="https://github.com/BrightLuminate"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white&link=https://github.com/Louisdohyeon"/></a>&nbsp
 <a href="https://blog.naver.com/grace9352"><img src="https://img.shields.io/badge/naver-03C75A?style=flat&logo=naver&logoColor=white&link=https://blog.naver.com/grace9352" alt="Naver 블로그"></a>
 </p>
-<img align="riht" alt="Coding" width="250" src="https://dribbble.com/shots/6581243-Digital-Marketing"
+<img align="riht" alt="Coding" width="250" src="https://images.app.goo.gl/qnjmjGZszbr7MS3MA"
 
 
 
